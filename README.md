@@ -6,3 +6,8 @@
 ## Logiciels de virtualisation
 - [VMware Workstation](https://www.vmware.com/products/workstation-pro.html)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+## Logiciels de dialogue en ligne
+- [Telegram](https://telegram.org/)
+- [Element](https://element.io/get-started)
+- [Discord](https://discord.com/)

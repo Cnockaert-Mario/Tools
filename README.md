@@ -8,6 +8,10 @@
 - [Element](https://element.io/get-started)
 - [Discord](https://discord.com/)
 
+## Logiciels d'édition de texte
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Atom](https://atom.io/)
+
 ## Logiciels de virtualisation
 - [VMware Workstation](https://www.vmware.com/products/workstation-pro.html)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)

@@ -22,6 +22,7 @@
 - [Thunderbird](https://www.thunderbird.net/fr/)
 
 ## Logiciels client SSH
+- [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download)
 - [mRemoteNG](https://mremoteng.org/download)
 - [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 - [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)

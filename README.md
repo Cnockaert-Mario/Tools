@@ -9,7 +9,7 @@
 - [Discord](https://discord.com/)
 
 ## Logiciels d'édition de texte
-- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/download) - [VSCode-Theme-leadcode](https://github.com/LeadcodeDev/VSCode-Theme-leadcode)
 - [Atom](https://atom.io/)
 
 ## Logiciels de virtualisation
